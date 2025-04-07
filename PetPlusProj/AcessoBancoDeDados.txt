@@ -1,0 +1,9 @@
+Acesso para aplicação é:
+IP:20.197.225.170
+user: aplicacao
+senha: wasd1304@
+
+Acesso root para o BD mysql é:
+IP:20.197.225.170
+user: remoto
+senha: wasd1304@Dh  (provalvemente)
