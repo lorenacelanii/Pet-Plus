@@ -6,8 +6,10 @@ Sistema desktop desenvolvido em **Java** para gestão de pet shops, com interfac
 
 ## 💻 Tecnologias utilizadas
 
+
 - Java (Front-end e Back-end)
-- Interface gráfica com **Java Swing**
+- Java Swing (interface gráfica)
+- **MySQL** (banco de dados relacional)
 - IDE: **Apache NetBeans**
 
 ---
