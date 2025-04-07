@@ -14,7 +14,7 @@ Sistema desktop desenvolvido em **Java** para gestão de pet shops, com interfac
 
 ---
 
-![Imagem do Sistema PetPlus](./sistema-petplus.png)
+![Imagem do Sistema PetPlus](/petplus.png)
 
 ---
 
